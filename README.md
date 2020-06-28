@@ -1,3 +1,7 @@
+## About
+
+This is a tutorial project for me. This Project Manager Your Deck 😍😍😍
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
