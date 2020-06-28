@@ -1,7 +1,12 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const MainPage = () => {
-  return <h1>This is a Main Page</h1>;
+  return (
+    <div>
+      <Link to="/users/add">Add new User</Link>
+    </div>
+  );
 };
 
 export default MainPage;
